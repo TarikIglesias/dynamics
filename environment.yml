@@ -4,11 +4,6 @@ dependencies:
   - python
   - numpy
   - scipy
-  - psutil
-  - toolz
   - matplotlib
-  - dill
-  - pandas
-  - partd
-  - bokeh
-  - dask
+
+
