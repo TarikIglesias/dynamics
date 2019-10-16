@@ -1,0 +1,2 @@
+# dynamics
+codigos,notebooks,python
